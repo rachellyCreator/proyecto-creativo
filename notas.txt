@@ -1,1 +1,2 @@
 hola mundo
+paso 2 completado: Practicando el flujo corto de Git
